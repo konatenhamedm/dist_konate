@@ -265,6 +265,9 @@ MIT
 @ngx-translate/http-loader
 MIT
 
+agora-rtc-sdk
+SEE LICENSE IN LICENSE.md
+
 angular-feather
 MIT
 The MIT License
@@ -1257,6 +1260,9 @@ THE SOFTWARE.
 
 ng2-charts
 ISC
+
+ngx-agora
+MIT
 
 ngx-echarts
 MIT
